@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# gio1014
+#
+
+projectname: gio1014
+vendorid: com.mycompany
+mainmodule: com.mycompany.gio1014
